@@ -6,3 +6,7 @@ Versi README dari feature
 - Memahami Git dan GitHub
 - Mempraktikkan branch dan merge
 - Memahami workflow Pull Request
+
+## Contact
+
+- GitHub: https://github.com/affandzaki15
