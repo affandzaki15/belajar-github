@@ -1,3 +1,1 @@
-# Belajar git dan github cuy
-
-Project latihan Git dan GitHub.
+Versi README dari feature
